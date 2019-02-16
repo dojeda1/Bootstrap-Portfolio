@@ -1,6 +1,12 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
 body {
 
     background-image: url("../images/prism.png");
+    margin-bottom: 100px;
 }
 
 .headFont {
@@ -23,6 +29,16 @@ a:hover {
 
 p {
     color: #777777;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.thickBorder {
+    border-top: 8px solid red;
 }
 
 .navTag {}
