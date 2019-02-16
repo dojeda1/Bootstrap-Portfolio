@@ -47,3 +47,8 @@ p {
 .imagePic {
     width: 100%;
 }
+
+.moveUp {
+    position: relative;
+    top: -50px;
+}
