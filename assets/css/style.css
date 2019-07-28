@@ -52,3 +52,17 @@ p {
     position: relative;
     top: -50px;
 }
+
+@media only screen and (min-width: 720px) {
+    .row .col.s8ths {
+        width: 12.5%;
+    }
+
+    .xtra-info {
+        display: inline;
+    }
+
+    .box {
+        padding: 8px !important;
+    }
+}
