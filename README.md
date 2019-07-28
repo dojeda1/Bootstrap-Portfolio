@@ -6,6 +6,8 @@ A basic portfolio template designed to showcase projects. App is made to be web 
 
   **Visit Web App [Here!](https://dojeda1.github.io/Bootstrap-Portfolio/)**
 
+![Web App Image](./demo.png)
+
 ### Technologies used
 
 * HTML
